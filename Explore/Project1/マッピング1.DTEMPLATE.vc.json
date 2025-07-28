@@ -4,6 +4,7 @@
     "bigIntConvertType" : "ONLY_BIGINT",
     "documentType" : "MAPPING",
     "name" : "マッピング1",
+    "specialCharacterSupport" : "false",
     "links" : [
       {
         "link" : "exp -> ターゲット"
@@ -59,6 +60,7 @@
         "fieldMappingMode" : "MANUAL",
         "inputSorted" : "false",
         "schemaProviderType" : "SELECTED_OBJECT",
+        "targetFieldsOrdered" : "false",
         "updateColumns" : null,
         "useLabels" : "false",
         "useSequenceFields" : "false",
@@ -109,5 +111,5 @@
       }
     ]
   },
-  "vcsExportTime" : "2025-07-22 20:26:47 PDT"
+  "vcsExportTime" : "2025-07-27 22:34:29 PDT"
 }
